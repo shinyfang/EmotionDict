@@ -18,7 +18,7 @@ Code will be publicly available by the end of August, 2024
 @article{liu2023emotion,
   title={Emotion dictionary learning with modality attentions for mixed emotion exploration},
   author={Liu, Fang and Yang, Pei and Shu, Yezhi and Yan, Fei and Zhang, Guanhua and Liu, Yong-Jin},
-  journal={IEEE Transactions on Affective Computing},
+  journal={IEEE Transactions on Affective Computing, Digital Object Identifier: 10.1109/TAFFC.2023.3334520},
   year={2024},
   publisher={IEEE}
 }
