@@ -2,8 +2,8 @@
 Official codes and datasets for TAFFC 2023 paper "Emotion Dictionary Learning with Modality Attentions for Mixed Emotion Exploration"
 Code will be publicly available by the end of August, 2024
 
-- [ ] Inference code.
-- [ ] Training code.
+- [x] Inference code.
+- [x] Training code.
 
 ### System Requirements
 
